@@ -1,9 +1,9 @@
 #- SCRIPT UTA LE 
 #- AUR FOLLOW KARNA NA BHOOLNA
-print("  ==> \033[1;32mTHIS TOOLS  BY () ")
-print("  ==> \033[1;32mIF YOU ARE BAD I'M  YOUR DAD  ")
-print("  ==> \033[1;32m DON’T COPY ME ")
-time.sleep(5)
+
+
+
+
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThGREENPoolExecutor as tred
 import os,sys,time,json,random,re,string,platform,base64,platform,uuid
